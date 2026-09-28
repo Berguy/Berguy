@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](SEU-LINKEDIN-AQUI)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:SEU-EMAIL-AQUI)
 
-**Engenheiro de software construindo ferramentas para computação forense e perícia digital.**
+**Engenheiro de software construindo ferramentas para computação forense e pericia digital.**
 
 ---
 
