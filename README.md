@@ -53,6 +53,6 @@ Desenvolvimento em sprints, com suíte de testes e CI desde o primeiro dia.
   
 
 ## 📫 Vamos conversar
--**Linkedin:** https://www.linkedin.com/in/berguysilva/
+- **Linkedin:** https://www.linkedin.com/in/berguysilva/
 - **Email:** contato@berguysilva.com.br
 
